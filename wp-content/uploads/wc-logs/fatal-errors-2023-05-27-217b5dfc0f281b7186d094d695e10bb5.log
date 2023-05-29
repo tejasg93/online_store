@@ -1,0 +1,4 @@
+2023-05-27T11:06:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\online store\wp-content\plugins\elementor\includes\template-library\manager.php on line 13
+
+2023-05-27T11:06:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\online store\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_Abstract_Schema.php on line 173
+
